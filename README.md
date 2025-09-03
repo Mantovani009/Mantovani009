@@ -48,7 +48,7 @@ Atualmente estudo **TI no Senac Tatuapé**, onde tenho contato com diversas áre
 ## 🛠️ Tecnologias e Ferramentas  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=server&logoColor=white"/>
