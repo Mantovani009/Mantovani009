@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Mantovani009/Mantovani009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Eduardo!  
 
-Here are some ideas to get you started:
+Sempre gostei da área de **Tecnologia da Informação (TI)** e agora pretendo seguir carreira nesse caminho.  
+Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas, principalmente sobre hardware e programação. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim  
+- 💻 Apaixonado por tecnologia desde cedo  
+- 📚 Em constante aprendizado no mundo da programação, eletrônica e TI  
+- 🌱 Buscando evoluir como desenvolvedor e explorador de hardware  
+- 🎯 Objetivo: construir uma carreira sólida na área de tecnologia  
+
+## 📚 Atualmente estudando  
+- 🔧 Teoria de Hardware  
+- ⚡ Elétrica Básica  
+- 🔋 Eletrônica Básica  
+- 🤖 Arduino  
+- 🐙 Git & GitHub (básico)  
+
+## ✨ Minhas qualidades  
+- 🤝 Trabalho em equipe  
+- 📖 Dedicação ao aprendizado  
+- 🔍 Atenção aos detalhes  
+- 🚀 Vontade constante de evoluir  
+
