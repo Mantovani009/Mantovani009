@@ -53,7 +53,11 @@ Atualmente estudo **TI no Senac Tatuapé**, onde tenho contato com diversas áre
   <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue&style=for-the-badge&label=Visualizações+do+perfil" alt="Visualizações do perfil"/>
 </p>
 
----
+---## 👀 Visitantes no meu perfil  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue&style=for-the-badge&label=Visualizações+do+perfil" alt="Visualizações do perfil"/>
+</p>
 
 <p align="center">
   ✨ "Sempre evoluindo e buscando novos desafios na tecnologia!" ✨
