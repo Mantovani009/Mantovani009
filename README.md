@@ -18,12 +18,12 @@ Atualmente estudo **TI no Senac Tatuapé**, onde tenho contato com diversas áre
 
 ---
 
-## 📚 Atualmente estudando  
-- 🔧 Teoria de Hardware  
-- ⚡ Elétrica Básica  
-- 🔋 Eletrônica Básica  
-- 🤖 Arduino  
-- 🐙 Git & GitHub (básico)  
+##  Atualmente estudando  
+-  Teoria de Hardware  
+-  Elétrica Básica  
+-  Eletrônica Básica  
+-  Arduino  
+-  Git & GitHub (básico)  
 
 ---
 
@@ -35,7 +35,7 @@ Atualmente estudo **TI no Senac Tatuapé**, onde tenho contato com diversas áre
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+##  Tecnologias e Ferramentas  
 
 <p align="center">
   <!-- Linguagens e ferramentas principais -->
