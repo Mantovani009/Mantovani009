@@ -3,18 +3,18 @@
   <img src="https://i.ibb.co/6Jb8HfQ/tech-banner.gif" alt="Banner Eduardo - Tecnologia" width="100%">
 </p>
 
-# 👋 Olá, eu sou o Eduardo!  
+#  Olá, eu sou o Eduardo!  
 
 Sempre gostei da área de **Tecnologia da Informação (TI)** e agora estou dando meus primeiros passos profissionais nessa carreira.  
 Atualmente estudo **TI no Senac Tatuapé**, onde tenho contato com diversas áreas da tecnologia, desde hardware até programação. 🚀  
 
 ---
 
-## 💡 Sobre mim  
-- 💻 Apaixonado por tecnologia desde cedo  
-- 🎓 Estudante de **TI no Senac Tatuapé**  
-- 📚 Sempre em busca de novos aprendizados  
-- 🎯 Focado em construir uma carreira sólida na área de tecnologia  
+##  Sobre mim  
+-  Apaixonado por tecnologia desde cedo  
+-  Estudante de **TI no Senac Tatuapé**  
+-  Sempre em busca de novos aprendizados  
+-  Focado em construir uma carreira sólida na área de tecnologia  
 
 ---
 
@@ -27,11 +27,11 @@ Atualmente estudo **TI no Senac Tatuapé**, onde tenho contato com diversas áre
 
 ---
 
-## ✨ Minhas qualidades  
-- 🤝 Trabalho em equipe  
-- 📖 Dedicação ao aprendizado  
-- 🔍 Atenção aos detalhes  
-- 🚀 Vontade constante de evoluir  
+##  Minhas qualidades  
+-  Trabalho em equipe  
+-  Dedicação ao aprendizado  
+-  Atenção aos detalhes  
+-  Vontade constante de evoluir  
 
 ---
 
