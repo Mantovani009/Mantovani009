@@ -1,6 +1,6 @@
 
 ![banner](https://github.com/user-attachments/assets/29522e07-a69e-4463-845a-21775872c303)
-<h1 align="center"> busque o conhecimento e tenha tudo</h1> 
+<h1 align="center"> Busque o conhecimento e tenha tudo</h1> 
 <h3 align="center">Projetos e ideias em constante evolução</h3>
 <hr>
 
