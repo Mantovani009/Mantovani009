@@ -1,8 +1,5 @@
 <!-- Banner personaliz![banner](https://github.com/user-attachments/assets/53ba5ced-6b6b-4f4b-943e-18b670b11a75)
 ado -->
-<p align="center">
-  <img src="https://i.ibb.co/6Jb8HfQ/tech-banner.gif" alt="Banner Eduardo - Tecnologia" width="100%">
-</p>
 
 #  Olá, eu sou o Eduardo!  
 
