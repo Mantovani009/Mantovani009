@@ -1,5 +1,5 @@
 <!-- Banner personaliz![banner](https://github.com/user-attachments/assets/53ba5ced-6b6b-4f4b-943e-18b670b11a75)
-ado -->![banner](https://github.com/user-attachments/assets/8e458ea4-a96d-4580-9ff7-4f5c26da321b)
+ado -->
 
 
 
