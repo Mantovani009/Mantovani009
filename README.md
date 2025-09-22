@@ -5,7 +5,7 @@
 <hr>
 
 - Estudante de Tecnologia da Informação  
-- Apaixonado por programação, hardware e inovação
+- Apaixonado por hardware, programação e inovação
 - Sempre em busca de aprender e evoluir no mundo da tecnologia  
 
 
