@@ -1,5 +1,5 @@
 <!-- Banner personaliz![banner](https://github.com/user-attachments/assets/53ba5ced-6b6b-4f4b-943e-18b670b11a75)
-ado -->![banner](https://github.com/user-attachments/assets/25662435-777d-4fc2-8865-c8228e9b53ff)
+ado -->!
 
 
 #  Olá, eu sou o Eduardo!  
