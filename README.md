@@ -12,10 +12,9 @@
 
 #  Olá, eu sou o Eduardo!  
 
- Sou estudante de Técnico em Informática no Senac Tatuapé e movido por uma paixão genuína por tecnologia, hardware e sistemas operacionais. Tenho experiência prática com Windows Server, configurando e gerenciando serviços, usuários e redes corporativas, além de dominar Debian Linux, desde a instalação até a automação e manutenção de sistemas.
-Meu interesse por hardware vai além da teoria: adoro montar, otimizar e entender cada componente, garantindo que tudo funcione com máxima eficiência. Também atuo em redes e cabeamento, criando soluções robustas e confiáveis para ambientes conectados.
-Sou dedicado, curioso e valorizo o trabalho em equipe, sempre buscando transformar desafios em aprendizado. No GitHub, aplico meus conhecimentos em projetos colaborativos, explorando novas tecnologias e compartilhando experiências que podem inspirar e contribuir com outros desenvolvedores.
-Meu objetivo é continuar evoluindo como profissional de TI, criando soluções práticas, inovadoras e impactantes, e sempre estar um passo à frente no universo da tecnologia.
+ Estudante de Técnico em Informática no Senac Tatuapé, apaixonado por hardware, Windows Server e Debian Linux. Experiência prática em montagem e otimização de computadores, configuração de redes e administração de sistemas.
+Movido pela curiosidade e pelo desafio de transformar problemas em soluções, aplico meus conhecimentos em projetos colaborativos, aprendendo e evoluindo a cada oportunidade. Sempre buscando criar soluções inovadoras e deixar minha marca no mundo da tecnologia.
+
 
 ---
 
