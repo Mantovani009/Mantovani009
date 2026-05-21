@@ -12,8 +12,10 @@
 
 #  Olá, eu sou o Eduardo!  
 
-Sempre gostei da área de **Tecnologia da Informação (TI)** e agora estou dando meus primeiros passos profissionais nessa carreira.  
-Atualmente estudo **TI no Senac Tatuapé**, onde tenho contato com diversas áreas da tecnologia, desde hardware até programação. 🚀  
+ Sou estudante de Técnico em Informática no Senac Tatuapé e movido por uma paixão genuína por tecnologia, hardware e sistemas operacionais. Tenho experiência prática com Windows Server, configurando e gerenciando serviços, usuários e redes corporativas, além de dominar Debian Linux, desde a instalação até a automação e manutenção de sistemas.
+Meu interesse por hardware vai além da teoria: adoro montar, otimizar e entender cada componente, garantindo que tudo funcione com máxima eficiência. Também atuo em redes e cabeamento, criando soluções robustas e confiáveis para ambientes conectados.
+Sou dedicado, curioso e valorizo o trabalho em equipe, sempre buscando transformar desafios em aprendizado. No GitHub, aplico meus conhecimentos em projetos colaborativos, explorando novas tecnologias e compartilhando experiências que podem inspirar e contribuir com outros desenvolvedores.
+Meu objetivo é continuar evoluindo como profissional de TI, criando soluções práticas, inovadoras e impactantes, e sempre estar um passo à frente no universo da tecnologia.
 
 ---
 
@@ -26,19 +28,19 @@ Atualmente estudo **TI no Senac Tatuapé**, onde tenho contato com diversas áre
 ---
 
 ##  Atualmente estudando  
--  Teoria de Hardware  
--  Elétrica Básica  
--  Eletrônica Básica  
--  Arduino  
--  Git & GitHub (básico)  
+-  windows server (avançado)
+-  debian Linux 
+-  MYSQL
+-  javascript 
+-  Tomcat
 
 ---
 
 ##  Minhas qualidades  
--  Trabalho em equipe  
+-  Trabalho em equipe 
 -  Dedicação ao aprendizado  
 -  Atenção aos detalhes  
--  Vontade constante de evoluir  
+-  soluções diferentes 
 
 ---
 
